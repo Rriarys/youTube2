@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "youTube2", "youTube2\youTube2.csproj", "{233CCDC5-DB5E-4360-A442-925C3CB35AB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "youTube2", "youTube2\youTube2.csproj", "{233CCDC5-DB5E-4360-A442-925C3CB35AB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW1_switch", "HW1_switch\HW1_switch.csproj", "{EFE5BD04-7288-441E-BF2D-38CF27CCCE70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW1_switch", "HW1_switch\HW1_switch.csproj", "{EFE5BD04-7288-441E-BF2D-38CF27CCCE70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2_READ_LINE", "HW2_READ_LINE\HW2_READ_LINE.csproj", "{1A0FD342-167C-4871-B2A7-DB08E6281CF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EFE5BD04-7288-441E-BF2D-38CF27CCCE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFE5BD04-7288-441E-BF2D-38CF27CCCE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFE5BD04-7288-441E-BF2D-38CF27CCCE70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0FD342-167C-4871-B2A7-DB08E6281CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0FD342-167C-4871-B2A7-DB08E6281CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0FD342-167C-4871-B2A7-DB08E6281CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0FD342-167C-4871-B2A7-DB08E6281CF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
