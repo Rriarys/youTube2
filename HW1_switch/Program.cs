@@ -10,6 +10,8 @@
 
          const int UP = 1, RIGHT = 2, DOWN = 3, LEFT = 4;
 
+         const int UP = 1, RIGHT = 2, DOWN = 3, LEFT = 4;
+
          switch (direction)
          {
              case UP:
