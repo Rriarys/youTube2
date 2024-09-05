@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW2_READ_LINE", "HW2_READ_L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW3_while", "HW3_while\HW3_while.csproj", "{BCDCB200-A5F1-4BB0-A7A2-43CE0A14971D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW4_doWhile", "HW4_doWhile\HW4_doWhile.csproj", "{54DCC882-45AB-4A34-B439-13214BD60BD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW4_doWhile", "HW4_doWhile\HW4_doWhile.csproj", "{54DCC882-45AB-4A34-B439-13214BD60BD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW5_for", "HW5_for\HW5_for.csproj", "{F932FDA8-E1BA-4A1E-A224-EEDC5AFEF429}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{54DCC882-45AB-4A34-B439-13214BD60BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54DCC882-45AB-4A34-B439-13214BD60BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54DCC882-45AB-4A34-B439-13214BD60BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F932FDA8-E1BA-4A1E-A224-EEDC5AFEF429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F932FDA8-E1BA-4A1E-A224-EEDC5AFEF429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F932FDA8-E1BA-4A1E-A224-EEDC5AFEF429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F932FDA8-E1BA-4A1E-A224-EEDC5AFEF429}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
