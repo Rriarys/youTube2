@@ -1,6 +1,4 @@
-﻿using System.Threading.Channels;
-
-internal class Program
+﻿internal class Program
 {
     static void Main()
     {
